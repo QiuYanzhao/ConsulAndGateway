@@ -1,0 +1,12 @@
+server:
+  port: 7070
+spring:
+   application:
+     name: service-provider
+   cloud:
+     consul:
+       host: localhost
+       port: 8500
+       enabled: true
+       discovery:
+         register: true                                #是否需要注册
