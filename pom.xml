@@ -21,7 +21,7 @@
   </parent>
 
   <properties>
-    <spring-cloud.version>Hoxton.SR5</spring-cloud.version>
+    <spring-cloud.version>Hoxton.SR1</spring-cloud.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 

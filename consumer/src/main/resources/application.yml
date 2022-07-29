@@ -12,6 +12,8 @@ spring:
       port: 8500
       discovery:
         register: true  #是否需要注册
+        service-name: service-consumer
+
   redis:
     timeout: 10000
     host: localhost
@@ -22,6 +24,9 @@ spring:
         max-wait: 10000   #最大连接阻塞等待时间
         max-idle: 200     #最大空闲连接
         min-idle: 5       #最小空闲连接
+
+
+#启用httpClient连接池
 feign:
   httpclient:
     enabled: true

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31756c9e-f3d1-4fb1-86d9-b991ef01e73a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/gateway-server/src/main/java/com/test/test/config/GatewayRoutesConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-server/src/main/java/com/test/test/config/KeyResolverConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-server/src/main/java/com/test/test/filter/MyGatewayFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-server/src/main/java/com/test/test/filter/MyGlobalFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway-server/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consul-provider/src/main/java/com/test/controller/ProviderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consul-provider/src/main/java/com/test/controller/ProviderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consul-provider/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consul-provider/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consul-provider/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consul-provider/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consul-provider/target/classes/com/test/controller/ProviderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/consul-provider/target/classes/com/test/controller/ProviderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/test/ConsumerStarterServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/com/test/ConsumerStarterServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consumer/target/classes/com/test/service/ConsumerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer/target/classes/com/test/service/ConsumerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\WorkTools\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../WorkTool/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\WorkTool\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2C78DGx5Jo41srpNFZkaI6xXuZ7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.40804598" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TestApplication">
+    <configuration name="ConsumerStarterServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.ConsumerStarterServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderStarterServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consul-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.ProviderStarterServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.test.test.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerStarterServer" />
+        <item itemvalue="Spring Boot.ProviderStarterServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31756c9e-f3d1-4fb1-86d9-b991ef01e73a" name="Default Changelist" comment="" />
+      <created>1658142141296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658142141296</updated>
+      <workItem from="1658142143799" duration="3635000" />
+      <workItem from="1658194328554" duration="915000" />
+      <workItem from="1658202652765" duration="14000" />
+      <workItem from="1658228248297" duration="2610000" />
+      <workItem from="1658285193148" duration="2891000" />
+      <workItem from="1658374012357" duration="19112000" />
+      <workItem from="1658456151824" duration="22733000" />
+      <workItem from="1658713092301" duration="3663000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1480" y="94" key="#Project_Structure" timestamp="1658142776922">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="94" key="#Project_Structure/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658142776922" />
+    <state x="-1215" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1658480033309">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1215" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658480033309" />
+    <state x="-1155" y="225" key="#com.intellij.ide.util.MemberChooser" timestamp="1658482006843">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="225" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658482006843" />
+    <state x="-1333" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1658144397064">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1333" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658144397064" />
+    <state x="-1265" y="248" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1658456354134">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1265" y="248" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658456354134" />
+    <state x="-1180" y="260" key="FileChooserDialogImpl" timestamp="1658396563195">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1180" y="260" key="FileChooserDialogImpl/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658396563195" />
+    <state x="-1117" y="417" key="Github.ShareDialog" timestamp="1658396707811">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1117" y="417" key="Github.ShareDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658396707811" />
+    <state x="-1231" y="223" key="Github.UntrackedFilesDialog" timestamp="1658396714814">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1231" y="223" key="Github.UntrackedFilesDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658396714814" />
+    <state width="1516" height="199" key="GridCell.Tab.0.bottom" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1658374556854" />
+    <state width="1516" height="199" key="GridCell.Tab.0.center" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1658374556854" />
+    <state width="1516" height="199" key="GridCell.Tab.0.left" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1658374556854" />
+    <state width="1516" height="199" key="GridCell.Tab.0.right" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1658374556854" />
+    <state width="1516" height="199" key="GridCell.Tab.1.bottom" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1658374556855" />
+    <state width="1516" height="199" key="GridCell.Tab.1.center" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.1.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1658374556855" />
+    <state width="1516" height="199" key="GridCell.Tab.1.left" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.1.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1658374556855" />
+    <state width="1516" height="199" key="GridCell.Tab.1.right" timestamp="1658488003732">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1516" height="199" key="GridCell.Tab.1.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658488003732" />
+    <state width="1211" height="355" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1658374556855" />
+    <state x="-1430" y="174" key="Maven.ArtifactSearchDialog" timestamp="1658392119951">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1430" y="174" key="Maven.ArtifactSearchDialog/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658392119951" />
+    <state x="-1480" y="94" key="SettingsEditor" timestamp="1658142810680">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1480" y="94" key="SettingsEditor/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658142810680" />
+    <state x="-1586" y="180" key="new project wizard" timestamp="1658400231170">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1586" y="180" key="new project wizard/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658400231170" />
+    <state x="-1304" y="240" key="run.anything.popup" timestamp="1658477398252">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1304" y="240" key="run.anything.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658477398252" />
+    <state x="-1280" y="205" width="672" height="678" key="search.everywhere.popup" timestamp="1658460216743">
+      <screen x="-1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1280" y="205" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1658460216743" />
+  </component>
+</project>

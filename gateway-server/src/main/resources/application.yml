@@ -1,0 +1,40 @@
+server:
+  port: 9000
+spring:
+  application:
+    name: gateway
+
+  #路由id
+  cloud:
+    gateway:
+      routes:
+        - id: provider-service
+          #路由rul
+#          uri: http://localhost:7070
+          #动态路由
+          uri: lb://service-provider
+          predicates:
+            - Path=/**
+          filters:
+            - name: RequestRateLimiter
+              args:
+                redis-rate-limiter.replenishRate: 1  #令牌桶每秒填充速率
+                redis-rate-limiter.burstCapacity: 2  #令牌桶总容量
+                key-resolver: "#{@pathKeyResolver}"  #使用SpEL表达式按名称引用限流策略bean
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        register: true  #是否需要注册
+        service-name: service-gateway
+
+  redis:
+    timeout: 10000
+    host: localhost
+    port: 6379
+    lettuce:
+      pool:
+        max-active: 1024  #最大连接数
+        max-wait: 10000   #最大连接阻塞等待时间
+        max-idle: 200     #最大空闲连接
+        min-idle: 5       #最小空闲连接

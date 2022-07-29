@@ -10,3 +10,4 @@ spring:
        enabled: true
        discovery:
          register: true                                #是否需要注册
+         service-name: service-provider
